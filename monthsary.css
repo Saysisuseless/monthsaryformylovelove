@@ -7,7 +7,7 @@
   margin-left: auto;
   margin-right: auto;
   top: 150px;
-  background-color: #d9534f; /* Warm romantic red */
+  background-color: #f060f0;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -23,16 +23,16 @@
   border-right: 140px solid transparent;
   border-bottom: 82px solid transparent;
   /* a little smaller */
-  border-top: 98px solid #d9534f; /* Same romantic red */
+  border-top: 98px solid #f060f0; /* Same romantic red */
   /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
 
 .pocket {
-  border-left: 140px solid #f5a3a2; /* Soft pinkish red for the pocket */
-  border-right: 140px solid #f5a3a2;
-  border-bottom: 90px solid #ff6f61; /* Lighter romantic red */
+  border-left: 140px solid #ed87ed; /* Soft pinkish red for the pocket */
+  border-right: 140px solid #ed87ed;
+  border-bottom: 90px solid #f060f0; /* Lighter romantic red */
   border-top: 90px solid transparent;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
@@ -246,9 +246,9 @@ body {
   transition: all 0.1s linear;
   -webkit-appearance: none;
   background-color: transparent;
-  border: solid 2px #d9534f;
+  border: solid 2px #f060f0;
   border-radius: 4px;
-  color: #d9534f;
+  color: #f060f0;
   display: inline-block;
   font-size: 14px;
   text-transform: uppercase;
@@ -264,3 +264,4 @@ body {
   background-color: #d9534f;
   color: #fff;
 }
+
